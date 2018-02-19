@@ -67,7 +67,7 @@
   },
   {
     "Year": 2014,
-    "Code": "eugeo",
+    "Code": "asgeo",
     "Country": "Georgia",
     "Religion is important": "1,021",
     "Religion is not important": 10,
@@ -459,7 +459,7 @@
   },
   {
     "Year": 2009,
-    "Code": "eugeo",
+    "Code": "asgeo",
     "Country": "Georgia",
     "Religion is important": "1,193",
     "Religion is not important": 13,
@@ -851,7 +851,7 @@
   },
   {
     "Year": 2004,
-    "Code": "eugeo",
+    "Code": "asgeo",
     "Country": "Georgia",
     "Religion is important": "",
     "Religion is not important": "",
@@ -1243,7 +1243,7 @@ var data1999 = [
   },
   {
     "Year": 1999,
-    "Code": "eugeo",
+    "Code": "asgeo",
     "Country": "Georgia",
     "Religion is important": 989,
     "Religion is not important": 113,
