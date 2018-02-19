@@ -14,7 +14,8 @@
 
 <style>
   header {
-  background-color: #4CAF50;
+  background-color: black;
+  color: white;
   height: 80px;
   width: 100%;
   background-repeat: no-repeat;
@@ -43,11 +44,25 @@
     margin: 3px 2px;
     cursor: pointer;
 }
+ 
+  #a1
+  {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 3px 2px;
+    cursor: pointer;
+}
 </style>    
     
 <!-- create container element for visualization -->
 <div id="buttons">
-    <a href="AnalyticTrail/Analytic Trail.html"><button>Analytic Trail</button></a> <br>
+    <a href="AnalyticTrail/Analytic Trail.html"><button id=a1>Analytic Trail</button></a> <br>
     <button onclick="hideshow('2014');" id=w1>2010-2014</button>
     <button onclick="hideshow('2009');" id=w2>2005-2009</button>
     <button onclick="hideshow('2004');" id=w3>2000-2004</button> 
